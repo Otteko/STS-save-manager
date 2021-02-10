@@ -1,7 +1,8 @@
 # STS-save-manager
 ## First, what y'all probably came here for: [DOWNLOAD](https://github.com/Otteko/STS-save-manager/releases/download/1.0.1/Save.manager.exe)
 <br />
-For everyone else who enjoys reading:
+
+###### For everyone else who enjoys reading:
 <br />
 Manages and transfers Steam and Android saves
 <br />
@@ -21,7 +22,8 @@ Currently not supported features: Transfer in progress run, transfer run history
 <br />
 The file structure are different for these files and will cause crashes. This is being worked on
 <br />
-Dependencies for nerds:
+
+###### Dependencies for nerds:
 <br />
 • MediaDevices: https://www.nuget.org/packages/MediaDevices/
 <br />
