@@ -58,3 +58,7 @@ Having trouble? Try the following steps:
 5. Try a different USB port and different USB cable
 <br />
 6. Turn off USB debugging and make sure no USB services are taking over the connection (Advanced users)
+<br />
+
+
+MD5 Hash: 1.0.1 01df8ecc7b6ef2010a733a10532c8168
