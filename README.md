@@ -1,6 +1,11 @@
+
 # STS-save-manager
 ## First, what y'all probably came here for: [DOWNLOAD](https://github.com/Otteko/STS-save-manager/releases/download/1.0.1/Save.manager.exe)
 <br />
+
+<p align="center">
+  <img width="340" height="275" src="https://www.megacrit.com/img/title.4a497499347748682a475c6ff469431af893c2f5fcafd4345eb29db91bb01786.png">
+</p>
 
 ## Instructions:
 <br />
