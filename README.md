@@ -22,5 +22,21 @@ Currently not supported features: Transfer in progress run, transfer run history
 The file structure are different for these files and will cause crashes. This is being worked on
 <br />
 Dependencies for nerds:
+<br />
 • MediaDevices: https://www.nuget.org/packages/MediaDevices/
-
+<br />
+#HELPME
+<br />
+Having trouble? Try the following steps:
+<br />
+1. Make sure phone is plugged in and UNLOCKED, Especially if you are using a passcode.
+<br />
+2. Make sure your phone is set to MTP or PTP mode. Do NOT use "USB File transfer" even if you have the option
+<br />
+3. Make sure the Slay the Spire app has been opened once, especially after using 4: Reset phone save game
+<br />
+4. Make sure the Slay the Spire app is NOT currently running (Open multitasking -> Swipe out application, wait a few moments)
+<br />
+5. Try a different USB port and different USB cable
+<br />
+6. Turn off USB debugging and make sure no USB services are taking over the connection (Advanced users)
