@@ -18,3 +18,6 @@ Currently not supported features: Transfer in progress run, transfer run history
 <br />
 The file structure are different for these files and will cause crashes. This is being worked on
 <br />
+Dependencies for nerds:
+• MediaDevices: https://www.nuget.org/packages/MediaDevices/
+
