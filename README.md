@@ -1,4 +1,7 @@
 # STS-save-manager
+## First, what y'all probably came here for: [DOWNLOAD](https://github.com/Otteko/STS-save-manager/releases/download/1.0.1/Save.manager.exe)
+<br />
+For everyone else who enjoys reading:
 <br />
 Manages and transfers Steam and Android saves
 <br />
