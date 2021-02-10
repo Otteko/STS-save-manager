@@ -42,6 +42,8 @@ Currently not supported features: Transfer in progress run, transfer run history
 <br />
 The file structure are different for these files and will cause crashes. This is being worked on
 <br />
+I do not know how modded installations of STS will effect this program. If you have a modded copy, it would be best to only use it if you're willing to lose your save or know how to restore backups
+<br /> 
 
 ###### Dependencies for nerds:
 <br />
