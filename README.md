@@ -1,6 +1,21 @@
 # STS-save-manager
 ## First, what y'all probably came here for: [DOWNLOAD](https://github.com/Otteko/STS-save-manager/releases/download/1.0.1/Save.manager.exe)
 <br />
+## Instructions:
+<br />
+1. Plug your phone into your Windows PC (Sorry, no Mac or Linux support)
+<br />
+2. Set your device to MTP or PTP mode. Do NOT use USB mass storage, do NOT use USB debugging
+<br />
+2b. Make sure your phone is unlocked and remains unlocked during the entire process, try setting your screen timeout to infinite if you have problems.
+<br />
+3. Make sure your STS mobile game has been "swiped out" in multitasking to prevent errors
+<br />
+4. Make sure your STS mobile game has been opened at least once and you have a profile
+<br />
+5. Use the backup function before trying to transfer stuff
+<br />
+
 
 ###### For everyone else who enjoys reading:
 <br />
