@@ -1,6 +1,7 @@
 # STS-save-manager
 ## First, what y'all probably came here for: [DOWNLOAD](https://github.com/Otteko/STS-save-manager/releases/download/1.0.1/Save.manager.exe)
 <br />
+
 ## Instructions:
 <br />
 1. Plug your phone into your Windows PC (Sorry, no Mac or Linux support)
@@ -15,7 +16,6 @@
 <br />
 5. Use the backup function before trying to transfer stuff
 <br />
-
 
 ###### For everyone else who enjoys reading:
 <br />
